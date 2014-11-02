@@ -1,0 +1,1 @@
+from autocolor import AutoColor
